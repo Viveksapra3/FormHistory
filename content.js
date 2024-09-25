@@ -14,6 +14,18 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
+
+// This query works fine with we submit the button with the help of JS on console but when we click the button it does'nt work.
+
+
+
+
+
+
+
+
+
+
 // var formy = [];
 // let forms = document.querySelector('form');
 // if(forms){
